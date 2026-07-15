@@ -1,1 +1,6 @@
-test
+Template-type: ReDIF-Archive 1.0
+Handle: RePEc:iwt
+Name: International Water Management Institute
+Maintainer-Email: u.ariyawansa@cgiar.org
+Description: This is the archive of the IWMI publications collection
+URL: https://iwmi-publications.github.io/repec-archive/RePEc/iwt/
